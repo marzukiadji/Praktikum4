@@ -1,3 +1,4 @@
 # Praktikum4  
-Polymorphism in Java
+Polymorphism in Java  
+Overriding Method  
 ![image](output.png)
